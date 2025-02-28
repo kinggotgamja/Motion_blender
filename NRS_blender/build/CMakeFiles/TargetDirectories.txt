@@ -1,0 +1,3 @@
+/home/wodbs/NRS_blender/build/CMakeFiles/NRSProfiler.dir
+/home/wodbs/NRS_blender/build/CMakeFiles/edit_cache.dir
+/home/wodbs/NRS_blender/build/CMakeFiles/rebuild_cache.dir
