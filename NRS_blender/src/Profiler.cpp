@@ -1,3 +1,12 @@
+/*
+    This code is publicly available on GitHub.
+    You are free to use, modify, and distribute it.
+    However, you must clearly credit the source as follows:
+
+    Source: https://github.com/kinggotgamja/Motion_blender
+    Author: Jaeyoon Shim
+*/
+
 #include "Profiler.h"
 #include <cmath>
 #include <fstream>
