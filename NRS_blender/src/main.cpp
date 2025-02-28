@@ -8,20 +8,6 @@ using namespace std;
 #define Column_num 9
 
 /* Data Load Function */ 
-// vector<vector<double>> LoadData(const string& filename) {
-//     vector<vector<double>> data;
-//     ifstream file(filename);
-//     if (file.is_open()) {
-//         double value1, value2;
-//         while (file >> value1 >> value2) {
-//             data.push_back({ value1, value2 });
-//         }
-//         file.close();
-//     } else {
-//         cerr << "Can not open the file: " << filename << endl;
-//     }
-//     return data;
-// }
 vector<vector<double>> LoadData(const string& filename) {
     vector<vector<double>> data;
     ifstream file(filename);
