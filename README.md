@@ -11,3 +11,6 @@ However, the following conditions must be met:
     Author: Jaeyoon Shim
     ```
 - No other license restrictions are applied.
+
+## How to use
+- Please refer the src/main.cpp
